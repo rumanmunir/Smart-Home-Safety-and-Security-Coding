@@ -1,8 +1,3 @@
-    // Am Really Sorry Hafiza Apko Itna Tng Krta Ho Ap Mery Lye Sb Sy Zyada Important Ho Apko Sara Kuch Pta Hai Phir b Ap Ny Kbi Mera Haal Tk Nai Pocha Baki tu Baad Ki Baat
-    // Khair Ma Ny Ab Sb Allah Py chori Dosro SY Help mangni Chordi Kyu K Unho ny mery help nai ulta nuqsan hi kya hai
-    // Ma Dua Krta K Ap Jaha B Raho Allah Apko Hmesha Khush Rakhy Aur Ap Pr Apna Khas Krm Kry AMeen....!
-
-  
   #define BLYNK_PRINT Serial  // use to Show output on blynk app
   #include <ESP8266WiFi.h>    // nodemcu wifi library
   #include <DHT_U.h>
